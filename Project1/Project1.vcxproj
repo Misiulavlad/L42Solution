@@ -142,6 +142,7 @@
     <ClCompile Include="init random.cpp" />
     <ClCompile Include="logic.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="same.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="test_runner.cpp" />
   </ItemGroup>
